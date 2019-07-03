@@ -1,0 +1,6 @@
+datasources:5c379dbde4fee82d94262d77b4ea2b09d1e2004f
+commandlineoptions:9f8598a690c7367accf83ead504756ddd374acc9
+suitesfrom:no-suites-from-option
+file:4e5a03ea0412d42536f15fb44e5a2ced998d901e
+--suite Suites.DriverExchange
+--suite Suites.Magento
